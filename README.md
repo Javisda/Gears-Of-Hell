@@ -1,6 +1,11 @@
-<H1 ALIGN="CENTER">    GEARS OF HELL    👋</H1>
+<H1 ALIGN="CENTER">GEARS OF HELL</H1>
 <br> 
 </br>
+
+<p align="center">
+Play Gears Of Hell here: https://punicgames.itch.io/gears-of-hell
+</p>
+
 <p align="center"> 
  <img src=https://user-images.githubusercontent.com/79087129/198836908-bfe4388b-3fb4-473e-be36-42f898148044.png width=60% >
    </P>
